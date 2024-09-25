@@ -2,18 +2,14 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.para,
-.small-para {
+.para {
+  font-size: 22px;
+  font-weight: 800;
   color: hsl(0, 0%, 0%);
 }
 
 .small-para {
   font-size: 14px;
-}
-
-.para {
-  font-size: 22px;
-  font-weight: 800;
 }
 
 .confirm {
