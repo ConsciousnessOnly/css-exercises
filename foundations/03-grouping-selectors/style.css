@@ -1,0 +1,13 @@
+.abundant, .fruitful {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.abundant {
+    background-color: hsl(0, 0%, 0%);
+    color: white;
+}
+
+.fruitful {
+    background-color: #ffff00;
+}
