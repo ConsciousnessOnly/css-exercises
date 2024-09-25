@@ -2,3 +2,8 @@
     background-color: rgb(241, 163, 175);
     font-family: verdana, "DajaVu Sans", sans-serif;
 }
+
+#second-element {
+    color: hsl(255, 91%, 41%);
+    font-size: 36px;
+}
