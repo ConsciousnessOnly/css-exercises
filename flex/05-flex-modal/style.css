@@ -22,6 +22,7 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
 
   display: flex;
+  gap: 16px;
   padding: 16px;
 }
 
@@ -40,16 +41,13 @@ body {
   flex-shrink: 0;
 }
 
-.container {
-  margin: 0 16px;
-}
-
-.top {
+.header {
   display: flex;
-  justify-content: space-between;
-  
-  font-size: 20px;
+  align-items: center;
+  justify-content: space-between;  
+  font-size: 18px;
   font-weight: bold;
+  margin-bottom: 8px;
 }
 
 .close-button {
@@ -68,7 +66,7 @@ body {
 }
 
 .text {
-  margin: 16px 0;
+  margin-bottom: 16px;
 }
 
 button {
